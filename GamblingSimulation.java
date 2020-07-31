@@ -24,12 +24,12 @@ public class GamblingSimulation{
                 if(stake == 150)
                 {
                         System.out.println("you won the game");
-								System.out.println("stake: "+stake);
+			System.out.println("stake: "+stake);
                 }
                 else
                 {
                         System.out.println("you loose the game");
-								System.out.println("stake: "+stake);
+		        System.out.println("stake: "+stake);
                 }
 
 
